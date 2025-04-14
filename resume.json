@@ -1,0 +1,36 @@
+
+
+{
+  "name": "Ali Khan",
+  "email": "ali@example.com",
+  "phone": "03001234567",
+  "address": "123 Street, Lahore",
+  "summary": "As a recent IT graduate with a strong foundation in information technology and a keen interest in financial systems, I am eager to launch my career as an IT Specialist within a reputable bank or leading company. I have developed skills in software development, network management, and data analysis through hands-on projects and internships.",
+  "skills": [
+    "Strong organizational and time-management skills",
+    "Exceptional communication and interpersonal skills",
+    "Proficient in Laravel, Java, and SQL",
+    "Expert in Programming Languages (C, C++, OOP)",
+    "Detail-oriented and able to handle multiple tasks simultaneously",
+    "Experience in Handling MS Word, Excel, PowerPoint and Outlook"
+  ],
+  "experience": [
+    {
+      "position": "IT Intern",
+      "company": "Tech Solutions Ltd.",
+      "duration": "June 2023 - August 2023",
+      "description": "Assisted in software development and network monitoring tasks."
+    },
+    {
+      "position": "Freelance Web Developer",
+      "company": "Self-employed",
+      "duration": "January 2023 - May 2023",
+      "description": "Developed responsive websites for small businesses using HTML, CSS, and JavaScript."
+    }
+  ]
+}
+
+
+
+  
+  
